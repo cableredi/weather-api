@@ -2,8 +2,7 @@
 
 Get the latest weather from Open Weather API
 
-## Source code
-[https://github.com/cableredi/weather-api](https://github.com/cableredi/weather-api)
+![Weather Station](./data/readme/weather_station.png)
 
 
 ## Technology Used
