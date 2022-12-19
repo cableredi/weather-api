@@ -1,9 +1,3 @@
-# DSC 510
-# Week 12
-# Programming Assignment Week 12
-# Author: Kimberly Cable
-# 03/05/2022
-
 import buildWeatherUrl
 from ColorsClass import Colors
 
