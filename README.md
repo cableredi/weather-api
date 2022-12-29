@@ -1,9 +1,15 @@
 # Weather Station
 
-Get the latest weather from Open Weather API
+Get the latest weather from Open Weather API based on your city or zip code
+
+<br />
+<br />
 
 ![Weather Station](./data/readme/weather_station.png)
 
+<br />
+<br />
 
-## Technology Used
-Python 3
+## Built With
+
+Python 3, OpenWeather API
